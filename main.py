@@ -9,5 +9,5 @@ print("Ciao ", nome)
 emojis = ["^^", "0_o", ":)", "\_(0_0)_/¯", "(￢_￢)"]
 print(random.choice(emojis))
 
-IO = ["personalizzare il PC", "suonare il piano", "fare origami"]
+IO = ["personalizzare il PC", "suonare il piano", "fare origami", "giocare ai videogiochi"]
 print("sono bravo a ", random.choice(IO))
